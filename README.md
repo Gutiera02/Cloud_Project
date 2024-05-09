@@ -28,13 +28,17 @@ Flux de date
 Tehnologii utilizate:
 
 Frontend:
+
 HTML (HyperText Markup Language): HTML-ul este folosit pentru a structura conținutul paginilor web. Este folosit pentru a defini structura semantică a paginilor noastre, inclusiv elemente precum texte, imagini, linkuri și formulare.
 CSS (Cascading Style Sheets): CSS-ul este utilizat pentru a stiliza și a formata aspectul paginilor web. Cu ajutorul CSS-ului, putem defini aspectul vizual al elementelor HTML, inclusiv culori, fonturi, dimensiuni și aliniamente.
 JavaScript: JavaScript-ul este un limbaj de programare utilizat pentru a adăuga interactivitate și funcționalități dinamice paginilor web. În cadrul aplicației noastre, JavaScript-ul este folosit pentru a gestiona evenimente, a face cereri către backend și a manipula datele afișate în interfața utilizator.
+
 Backend:
+
 Node.js: Node.js este un mediu de execuție JavaScript pe partea de server, care permite rularea codului JavaScript pe server. Este folosit pentru a crea și a gestiona serverul backend al aplicației noastre.
 MongoDB: MongoDB este o bază de date NoSQL, orientată pe documente, care oferă flexibilitate și scalabilitate în stocarea datelor. Este folosită pentru a stoca datele despre studenți în cadrul aplicației noastre.
 
 Link video prezentare: https://youtu.be/g3tJVih73_w
+
 Link aplicație web: https://cloud-project--phi.vercel.app/
 
