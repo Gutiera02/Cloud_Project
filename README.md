@@ -40,7 +40,32 @@ Backend:
 
 Node.js: Node.js este un mediu de execuție JavaScript pe partea de server, care permite rularea codului JavaScript pe server. Este folosit pentru a crea și a gestiona serverul backend al aplicației noastre.
 
-MongoDB: MongoDB este o bază de date NoSQL, orientată pe documente, care oferă flexibilitate și scalabilitate în stocarea datelor. Este folosită pentru a stoca datele despre studenți în cadrul aplicației noastre.
+Tehnologii cloud:
+
+MongoDB este o bază de date NoSQL, orientată pe documente, care oferă o abordare flexibilă și scalabilă pentru stocarea și gestionarea datelor. În loc să folosească tabele și rânduri, MongoDB stochează datele sub formă de documente JSON flexibile, ceea ce face ușoară gestionarea datelor semi-structurate și nestructurate.
+
+Caracteristici:
+
+Flexibilitate: Documentele MongoDB sunt flexibile și pot conține orice tip de date, inclusiv stringuri, numere, array-uri și chiar sub-documente.
+Scalabilitate: MongoDB este conceput pentru a fi scalabil, atât vertical (adăugând mai multă putere de procesare la un singur nod), cât și orizontal (adăugând mai multe noduri într-un cluster).
+Performanță: Prin utilizarea indexării eficiente și a unor tehnici de interogare avansate, MongoDB oferă performanță ridicată pentru operațiunile de citire și scriere.
+
+Utilizări:
+
+MongoDB este folosită într-o varietate de aplicații, inclusiv aplicații web, aplicații mobile, sisteme de gestionare a conținutului și aplicații IoT (Internet of Things).
+
+Vercel este o platformă de hosting și deplasare (deployment) pentru aplicații web și frontend, care se concentrează pe furnizarea de experiențe de dezvoltare rapide și eficiente. A fost construită pentru a permite dezvoltatorilor să își publice și să își scală aplicațiile web și frontend cu ușurință.
+
+Caracteristici:
+
+Deployment simplu: Vercel oferă o experiență de deplasare simplă și intuitivă, permițând dezvoltatorilor să își publice aplicațiile în câteva secunde.
+Scaling automat: Platforma Vercel gestionează automat scalarea aplicațiilor, astfel încât acestea să poată face față la orice volum de trafic, fără a fi nevoie de intervenție manuală.
+Integrare strânsă cu framework-uri frontend: Vercel are o integrare strânsă cu cele mai populare framework-uri frontend, precum React, Angular, Vue.js, permitând dezvoltatorilor să se concentreze pe construirea aplicațiilor fără a fi nevoie să se preocupe de configurații de infrastructură.
+
+Utilizări:
+
+Vercel este utilizată de dezvoltatori pentru a publica și a gestiona aplicații web și frontend de diferite tipuri, inclusiv site-uri web statice, aplicații web dinamice și aplicații single-page.
+
 
 Link video prezentare: https://youtu.be/g3tJVih73_w
 
