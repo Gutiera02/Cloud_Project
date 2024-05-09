@@ -48,6 +48,7 @@ Caracteristici:
 
 Flexibilitate: Documentele MongoDB sunt flexibile și pot conține orice tip de date, inclusiv stringuri, numere, array-uri și chiar sub-documente.
 Scalabilitate: MongoDB este conceput pentru a fi scalabil, atât vertical (adăugând mai multă putere de procesare la un singur nod), cât și orizontal (adăugând mai multe noduri într-un cluster).
+
 Performanță: Prin utilizarea indexării eficiente și a unor tehnici de interogare avansate, MongoDB oferă performanță ridicată pentru operațiunile de citire și scriere.
 
 Utilizări:
@@ -59,7 +60,9 @@ Vercel este o platformă de hosting și deplasare (deployment) pentru aplicații
 Caracteristici:
 
 Deployment simplu: Vercel oferă o experiență de deplasare simplă și intuitivă, permițând dezvoltatorilor să își publice aplicațiile în câteva secunde.
+
 Scaling automat: Platforma Vercel gestionează automat scalarea aplicațiilor, astfel încât acestea să poată face față la orice volum de trafic, fără a fi nevoie de intervenție manuală.
+
 Integrare strânsă cu framework-uri frontend: Vercel are o integrare strânsă cu cele mai populare framework-uri frontend, precum React, Angular, Vue.js, permitând dezvoltatorilor să se concentreze pe construirea aplicațiilor fără a fi nevoie să se preocupe de configurații de infrastructură.
 
 Utilizări:
